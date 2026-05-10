@@ -1,0 +1,13 @@
+{
+  "model": "softmax",
+  "optimizer": "adam",
+  "lr": 0.001,
+  "epochs": 100,
+  "batch_size": 256,
+  "l2": 0.0001,
+  "clip_norm": 5.0,
+  "lr_schedule": "cosine",
+  "patience": 10,
+  "n_features": 2384,
+  "n_classes": 6
+}

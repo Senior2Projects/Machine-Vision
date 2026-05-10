@@ -1,0 +1,12 @@
+{
+  "model": "convmixer",
+  "h": 256,
+  "depth": 8,
+  "patch_size": 7,
+  "kernel_size": 9,
+  "lr": 0.001,
+  "epochs": 50,
+  "batch_size": 64,
+  "patience": 10,
+  "n_classes": 6
+}

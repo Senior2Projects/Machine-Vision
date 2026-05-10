@@ -1,0 +1,9 @@
+venv/
+venv310/
+data/raw/
+data/processed/
+*.npz
+*.keras
+*.h5
+__pycache__/
+.vscode/

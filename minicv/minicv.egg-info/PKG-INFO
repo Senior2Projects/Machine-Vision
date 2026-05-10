@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: minicv
+Version: 0.1.0
+Summary: A minimal image processing library built from scratch using NumPy and Matplotlib.
+Author: Abdelghaffar
+Requires-Python: >=3.8
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: pandas
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

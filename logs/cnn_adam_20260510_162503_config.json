@@ -1,0 +1,17 @@
+{
+  "model": "cnn_scratch",
+  "optimizer": "adam",
+  "lr": 0.001,
+  "epochs": 30,
+  "batch_size": 64,
+  "l2": 0.0001,
+  "clip_norm": 5.0,
+  "lr_schedule": "cosine",
+  "patience": 7,
+  "input_shape": [
+    3,
+    96,
+    96
+  ],
+  "n_classes": 6
+}
